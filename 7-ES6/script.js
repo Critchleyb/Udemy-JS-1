@@ -140,7 +140,7 @@ console.log(ages63);
 */
 
 //ES5
-
+/*
 var box5 = {
     color: 'green',
     position: 1,
@@ -153,7 +153,7 @@ var box5 = {
     }
 }
 //box5.clickMe();
-
+*/
 //ES6
 
 /*
@@ -249,3 +249,5 @@ function calcAgeRetirement(year) {
 
 const [age2,retirement] = calcAgeRetirement(1993);
 console.log(`${age2} ${retirement}`);
+
+//test
